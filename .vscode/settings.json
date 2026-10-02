@@ -1,0 +1,7 @@
+{
+  "files.exclude": { "**/node_modules": false, "**/.git": true },
+  "explorer.compactFolders": false,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.associations": { ".env.example": "properties" }
+}
